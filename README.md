@@ -40,7 +40,7 @@ $ cd bin/Release
 <hr>
 <br>
 
-Made by [Caio Enrique](http://github.com/100f) - Oct, 2020. :eyeglasses:
+Made by [Caio Enrique](http://github.com/100f) - Apr, 2020. :eyeglasses:
 
 
 
